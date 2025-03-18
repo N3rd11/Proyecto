@@ -3,12 +3,12 @@
 **Fecha:** 18 de marzo de 2025  
 **Hora de inicio:** 10:00 AM  
 **Hora de finalización:** 11:30 AM  
-**Lugar:** [Ubicación física o virtual]  
+**Lugar:** [Duoc uc,Santiago]  
 
 ## ASISTENTES
-- [Nombre del integrante 1] - CEO/Director de Proyecto
-- [Nombre del integrante 2] - CTO/Líder de Tecnología
-- [Nombre del integrante 3] - CPO/Product Manager
+- [Vicente Zapata] - CEO/Director de Proyecto
+- [Vicente Zapata] - CTO/Líder de Tecnología
+- [Francisco Gutierrez] - CPO/Product Manager
 
 ## AGENDA
 1. Constitución formal del equipo
@@ -37,17 +37,17 @@ Se discutieron varias propuestas de negocio, optando finalmente por LaunchKit, u
 
 Se definieron los siguientes roles principales:
 
-- **[Nombre del integrante 1]** - CEO/Director de Proyecto
+- **[Vicente Zapata]** - CEO/Director de Proyecto
   - Responsable de la visión estratégica
   - Gestión general del proyecto
   - Relaciones externas
 
-- **[Nombre del integrante 2]** - CTO/Líder de Tecnología
+- **[Vicente Zapata-Francisco Gutierrez]** - CTO/Líder de Tecnología
   - Arquitectura tecnológica
   - Supervisión del desarrollo
   - Decisiones técnicas
 
-- **[Nombre del integrante 3]** - CPO/Product Manager
+- **[Francisco Gutierrez]** - CPO/Product Manager
   - Definición del producto
   - Priorización de funcionalidades
   - Investigación de mercado
@@ -58,28 +58,14 @@ Se acordaron las siguientes acciones inmediatas:
 
 | Acción | Responsable | Fecha límite |
 |--------|-------------|--------------|
-| Crear tablero en Trello para seguimiento | [Integrante 1] | 20/03/2025 |
-| Investigar competencia | [Integrante 3] | 25/03/2025 |
-| Diseñar arquitectura preliminar | [Integrante 2] | 27/03/2025 |
+| Crear tablero en Trello para seguimiento | [Francisco Gutierrez] | 20/03/2025 |
+| Investigar competencia | [Vicente Zapata] | 25/03/2025 |
+| Diseñar arquitectura preliminar | [Francisco Gutierrez] | 27/03/2025 |
 | Preparar presentación inicial | Todos | 30/03/2025 |
 
 ## ACUERDOS Y DECISIONES
 1. El nombre oficial de la startup será "LaunchKit Technologies"
 2. Se trabajará bajo metodología Scrum con sprints de 2 semanas
 3. Reuniones semanales de seguimiento cada lunes a las 10:00 AM
-4. Utilización de Miro para lluvia de ideas y Trello para gestión de tareas
+4. Utilizacion Trello para gestión de tareas
 5. Próxima reunión: 25 de marzo de 2025, 10:00 AM
-
-## FIRMAS DE CONFORMIDAD
-
-___________________________
-[Nombre del integrante 1]
-CEO/Director de Proyecto
-
-___________________________
-[Nombre del integrante 2]
-CTO/Líder de Tecnología
-
-___________________________
-[Nombre del integrante 3]
-CPO/Product Manager
