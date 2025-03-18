@@ -3,7 +3,7 @@
 ## DATOS GENERALES
 **Nombre de la empresa:** LaunchKit Technologies  
 **Fecha de constitución:** 18 de marzo de 2025  
-**Ubicación:** [Ciudad, País]  
+**Ubicación:** [Santiago, Chile]  
 
 ## MISIÓN
 Potenciar el éxito de empresas emergentes proporcionando herramientas tecnológicas integrales que simplifiquen sus operaciones diarias, optimicen sus recursos y aceleren su crecimiento durante los primeros años críticos de funcionamiento.
@@ -21,9 +21,9 @@ Ser reconocidos como el aliado tecnológico esencial para toda nueva empresa, tr
 ## ESTRUCTURA ORGANIZACIONAL
 
 ### Equipo Fundador
-- **CEO/Director de Proyecto:** [Nombre del integrante 1]
-- **CTO/Líder de Tecnología:** [Nombre del integrante 2]
-- **CPO/Product Manager:** [Nombre del integrante 3]
+- **CEO/Director de Proyecto:** [Vicente Zapata]
+- **CTO/Líder de Tecnología:** [Vicente Zapata]
+- **CPO/Product Manager:** [Francisco Gutierrez]
 
 ### Áreas Funcionales
 1. **Desarrollo de Producto**
@@ -47,17 +47,3 @@ Ser reconocidos como el aliado tecnológico esencial para toda nueva empresa, tr
 
 ### Metodología de Trabajo
 LaunchKit Technologies implementará metodologías ágiles, específicamente Scrum, para el desarrollo de productos y servicios, garantizando entregas de valor constantes y adaptabilidad ante los cambios del mercado.
-
-## FIRMAS
-
-___________________________
-[Nombre del integrante 1]
-CEO/Director de Proyecto
-
-___________________________
-[Nombre del integrante 2]
-CTO/Líder de Tecnología
-
-___________________________
-[Nombre del integrante 3]
-CPO/Product Manager
