@@ -1,4 +1,4 @@
-# MINUTA DE REUNIÓN - LAUNCHKIT TECHNOLOGIES
+# MINUTA DE REUNIÓN - LAUNCHKIT
 
 **Fecha:** 18 de marzo de 2025  
 **Hora de inicio:** 10:00 AM  
@@ -58,14 +58,13 @@ Se acordaron las siguientes acciones inmediatas:
 
 | Acción | Responsable | Fecha límite |
 |--------|-------------|--------------|
-| Crear tablero en Trello para seguimiento | [Francisco Gutierrez] | 20/03/2025 |
-| Investigar competencia | [Vicente Zapata] | 25/03/2025 |
-| Diseñar arquitectura preliminar | [Francisco Gutierrez] | 27/03/2025 |
-| Preparar presentación inicial | Todos | 30/03/2025 |
+| Crear tablero en Trello para seguimiento | [Francisco Gutierrez] | 18/03/2025 |
+| Investigar competencia | [Vicente Zapata] | 18/03/2025 |
+| Diseñar arquitectura preliminar | [Francisco Gutierrez] | 18/03/2025 |
+| Preparar presentación inicial | Todos | 18/03/2025 |
 
 ## ACUERDOS Y DECISIONES
-1. El nombre oficial de la startup será "LaunchKit Technologies"
+1. El nombre oficial de la startup será "LaunchKit"
 2. Se trabajará bajo metodología Scrum con sprints de 2 semanas
-3. Reuniones semanales de seguimiento cada lunes a las 10:00 AM
-4. Utilizacion Trello para gestión de tareas
-5. Próxima reunión: 25 de marzo de 2025, 10:00 AM
+3. Utilizacion Trello para gestión de tareas
+4. Próxima reunión: 25 de marzo de 2025, 10:00 AM
